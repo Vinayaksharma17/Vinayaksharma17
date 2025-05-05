@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="[https://cdn.pixabay.com/photo/2017/06/07/01/14/internet-of-things-2389236_1280.jpg](https://www.freepik.com/free-vector/digital-transformation-isometric_26762100.htm#fromView=keyword&page=1&position=33&uuid=d5976d37-14ea-4d0a-bb61-092faf12c125&query=Iot)" alt="IoT Banner" width="100%" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 <h3 align="center">A passionate Backend Developer exploring the world of IoT and smart systems</h3>
 
