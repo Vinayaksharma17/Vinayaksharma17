@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Backend Developer exploring the world of IoT and smart systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaksharma17&label=Profile%20views&color=0e75b6&style=flat" alt="vinayaksharma17" /> </p>
 
