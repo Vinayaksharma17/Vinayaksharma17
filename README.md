@@ -3,26 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaksharma17&label=Profile%20views&color=0e75b6&style=flat" alt="vinayaksharma17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayaksharma17" alt="vinayaksharma17" /></a> </p>
 
-- 🔭 I’m currently working on [test](test)
+- 🌱 I’m currently learning **Internet of Things (IoT)** technologies and protocols
 
-- 🌱 I’m currently learning **test**
+- 👯 I’m looking to collaborate on innovative **IoT-based projects**, especially those involving smart devices and automation.
 
-- 👯 I’m looking to collaborate on [test](test)
-
-- 🤝 I’m looking for help with [test](test)
-
-- 👨‍💻 All of my projects are available at [test](test)
-
-- 📝 I regularly write articles on [test](test)
-
-- 💬 Ask me about **test**
+- 💬 Ask me about **IoT systems, IoT Protocols, data visualization, microcontrollers**
 
 - 📫 How to reach me **vvsharma999@gmail.com**
 
-- 📄 Know about my experiences [test](test)
-
+- 👨🏻‍💻 Explore my IoT journey, skills, and experience on my portfolio [website](https://vinayak-sharma.netlify.app/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/vinayak-sharma17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vinayak-sharma17" height="30" width="40" /></a>
