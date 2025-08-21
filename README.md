@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 <h3 align="center">A passionate Backend Developer exploring the world of IoT and smart systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaksharma17&label=Profile%20views&color=0e75b6&style=flat" alt="vinayaksharma17" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/a03d2ed7712c058954d47b959f0bed2b837595cf2ac1d4383cdcd5e5b84c40a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966" height="300" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinayaksharma17&label=Profile%20views&color=0e75b6&style=flat" alt="vinayaksharma17" /> </p>
 
 
 - 🌱 I’m currently learning **Internet of Things (IoT)** technologies and protocols
@@ -13,6 +14,7 @@
 - 📫 How to reach me **vvsharma999@gmail.com**
 
 - 👨🏻‍💻 Explore my IoT journey, skills, and experience on my portfolio [website](https://vinayak-sharma.netlify.app/)
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
